@@ -1,6 +1,13 @@
 
+.env.local
+
 node_modules
+
+dist
+
+.env
+
+.gitignore
+branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
-config.bat
-branch_structure.json
